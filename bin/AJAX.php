@@ -60,4 +60,5 @@ function countIncidencias()
 	
 	echo $consulta->getColumna('cantidad');
 }
+
 ?>
